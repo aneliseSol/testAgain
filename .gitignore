@@ -1,0 +1,7 @@
+node_modules
+dist
+.parcel-cache
+.DS_Store
+sumUpTimesRoadMapSection19.xlsx
+videos_Section_19.js
+steps_Implementing.js
